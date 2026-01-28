@@ -6,3 +6,5 @@ def refund():
 
 def testmain():
     print("test")
+def test2main():
+    print("test2")
