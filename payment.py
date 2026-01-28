@@ -3,3 +3,6 @@ def payment():
 
 def refund():
     print("This is the refund module.")
+
+def inoice():
+    print("This is the invoice module.")
