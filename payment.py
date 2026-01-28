@@ -3,3 +3,6 @@ def payment():
 
 def refund():
     print("This is the refund module.")
+
+def testmain():
+    print("test")
